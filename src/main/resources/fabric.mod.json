@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "veritymod",
+  "version": "${version}",
+  "name": "Verity",
+  "description": "Verity — сущность в прыгающей коробке с синхронной мимикой.",
+  "authors": ["VerityDEV"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.veritymod.VerityMod"],
+    "client": ["com.veritymod.VerityModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

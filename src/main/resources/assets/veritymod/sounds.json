@@ -1,0 +1,20 @@
+{
+  "verity_greeting": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "veritymod:verity_greeting",
+        "stream": true
+      }
+    ]
+  },
+  "verity_speak": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "veritymod:verity_speak",
+        "stream": true
+      }
+    ]
+  }
+}
